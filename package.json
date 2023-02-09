@@ -1,5 +1,5 @@
 {
-  "name": "introToApis",
+  "name": "",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnedisc/introToApisEpicodus.git"
+    "url": "git+"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnedisc/introToApisEpicodus.git/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/johnedisc/introToApisEpicodus.git#readme",
+  "homepage": "",
   "devDependencies": {
     "@babel/cli": "^7.20.7",
     "@babel/core": "^7.20.12",
